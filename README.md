@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kiadtisak Preechanon
 ============================================================================================================================================
 
-passionate student with a keen interest in exploring various emerging technologies
+passionate student with a keen interested in exploring various emerging technologies
 ----------------------------------------------------------------------------------
 
 I am looking for a university that supports my projects for digital and green business growth and helping me achieve my goals.
