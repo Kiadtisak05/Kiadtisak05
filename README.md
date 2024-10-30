@@ -7,7 +7,7 @@ passionate student with a keen interest in exploring various emerging technologi
 I am looking for a university that supports my projects for digital and green business growth and helping me achieve my goals.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Portfolio](https://kiadtisak05.github.io/))
+* 🖥️  See my portfolio at [My Portfolio](https://kiadtisak05.github.io/)
 * ✉️  You can contact me at [kiadtisakpreechanon05@gmail.com](mailto:kiadtisakpreechanon05@gmail.com)
 * 🧠  I'm learning blockchain technology, the metaverse, and NFTs
 
