@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 passionate student with a keen interested in exploring various emerging technologies
 ----------------------------------------------------------------------------------
 
-I am looking for a university that supports my projects for digital and green business growth and helping me achieve my goals.
+I am looking for a university that supports my projects in digital and green business fields to help me achieve my goals.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Portfolio](https://kiadtisak05.github.io/)
